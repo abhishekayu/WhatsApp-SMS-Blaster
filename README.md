@@ -1,5 +1,8 @@
 # WhatsApp-SMS-Blaster
-WhatsApp SMS Blaster using Python , Auto Messaging 
+WhatsApp SMS Blaster using Python , Auto Messaging.
+## Disclaimer
+This Script is only for Education and Knowledge Purposes
+Please don't use for revenge.
 ## Requriment
 ```
 Python3
